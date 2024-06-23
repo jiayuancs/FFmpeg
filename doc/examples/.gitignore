@@ -23,3 +23,7 @@
 /vaapi_encode
 /vaapi_transcode
 /qsv_transcode
+
+.idea
+.vscode
+cmake-build-debug
